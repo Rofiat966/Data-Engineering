@@ -9,3 +9,6 @@ b =4
 print(a+b)
 name ="Ade"
 print("My name is " +name)
+x= str(10)
+y = int(10)
+Z = float(10)
