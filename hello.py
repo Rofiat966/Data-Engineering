@@ -7,3 +7,5 @@ print(f"nice to meet you {name}")
 a =10
 b =4
 print(a+b)
+name ="Ade"
+print("My name is " +name)
