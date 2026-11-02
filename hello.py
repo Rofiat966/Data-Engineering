@@ -12,3 +12,5 @@ print("My name is " +name)
 x= str(10)
 y = int(10)
 Z = float(10)
+a,b,c = 10, 20, 30
+print(a,b,c)
